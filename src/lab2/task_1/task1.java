@@ -1,3 +1,5 @@
+package lab2.task_1;
+
 import java.util.HashMap;
 import java.util.Scanner;
 
