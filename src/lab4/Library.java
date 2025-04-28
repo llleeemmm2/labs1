@@ -55,6 +55,6 @@ public class Library {
 
     public void printAuthorStatistics() {
         authorBookCount.forEach((author, count) ->
-                System.out.println(author + ": " + count + " book(s)"));
+                System.out.println(author + ": " + count + " книга(и)"));
     }
 }
